@@ -1,4 +1,0 @@
-Deadly Skills
-==========
-* Git
-* JavaScript
